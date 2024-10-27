@@ -1,2 +1,2 @@
 #  NextJS.Tutorial.StephenGrider
- Work from the Stephen Grider Udemy course on NextJS
+My work from going through the [Stephen Grider Udemy course on NextJS](https://www.udemy.com/course/next-js-the-complete-developers-guide)
